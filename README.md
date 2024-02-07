@@ -1,3 +1,10 @@
+This repository contains a CRUD (Create, Read, Update, Delete) API for a bookstore implemented using Python Django and Django-Rest-Framework
+
+
+
+
+
+
 Implement Django-based Book Management API
 
 - Set up Django project structure
